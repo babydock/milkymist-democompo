@@ -1,0 +1,25 @@
+[> Milkymist Demo Compo
+-----------------------
+
+The demoparty MAIN#4 (http://www.mainparty.net/) will take place from October 
+2 to 4 in Arles (France) with a lot of famous teams from the demoscene. The 
+theme of this demoparty is the lightness of code.
+
+The idea here is to present a compo based on the Milkymist hardware platform 
+within a month. It may be a 2D/3D compo (or 2D only) and must be less than 10min 
+long.
+
+If you have ideas and/or want to be part of this, there is a small wiki page 
+at http://www.tmplab.org/wiki/index.php/DemoParty_Compo_with_MilkyMist. Feel 
+free to subscribe and edit this page (or the discussion tab).
+
+
+Milkymist is an opensource VJing system-on-chip for FPGA boards,
+compatible with MilkDrop presets.
+
+For the latest releases, binary distributions and more:
+  http://www.milkymist.org
+
+[> Subdirectories
+ /src/       Source of the demo. Finished code goes here.
+ /attic/     File sharing between contributors.
